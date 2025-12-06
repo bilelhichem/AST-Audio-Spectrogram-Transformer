@@ -45,3 +45,6 @@ Le modèle **AST (Audio Spectrogram Transformer)** peut théoriquement être uti
 | ✔️ True           | ✔️ True           | ✔️ Oui   | Modèle AST pré-entraîné AudioSet (meilleure performance).  |
 
 ---
+
+
+<img width="467" height="411" alt="Image" src="https://github.com/user-attachments/assets/41e8752e-244e-41b8-a1fe-ca9e7401e039" />
